@@ -1,0 +1,102 @@
+[
+  {
+    "query": "Who is defined as a Data Fiduciary and how does that role differ from a Data Processor when it comes to responsibility for complying with the Act?",
+    "ideal_answer": "A Data Fiduciary is any person who, alone or with others, determines the purpose and means of processing personal data, whereas a Data Processor only processes personal data on behalf of a Data Fiduciary. Regardless of any agreement to the contrary or the Data Principal's failure to fulfil her duties, the Data Fiduciary remains responsible for complying with the Act for all processing carried out by it or by a Data Processor on its behalf."
+  },
+  {
+    "query": "What must a Data Fiduciary include in the consent notice given to a Data Principal, and what right does the Data Principal have if she later wants to stop that processing?",
+    "ideal_answer": "The consent notice must inform the Data Principal of the personal data and purpose for which it is proposed to be processed, how she may exercise her rights, and how she may complain to the Board. If she later wants to stop the processing, she has the right to withdraw her consent at any time, with the withdrawal being as easy as giving the consent was; the Data Fiduciary must then, within a reasonable time, cease (and cause its Data Processors to cease) processing her data, though withdrawal doesn't affect the legality of processing already done before it."
+  },
+  {
+    "query": "Under what circumstances is a Data Fiduciary exempted from providing personal or domestic use data, and how does the definition of processing help determine what counts as processing digital personal data?",
+    "ideal_answer": "The Act does not apply to personal data processed by an individual for personal or domestic purposes, or to personal data made publicly available by the Data Principal herself or by someone legally obligated to make it public. Since 'processing' covers any automated operation on digital personal data — including collection, storage, use, sharing, or erasure — an activity only falls within scope of the Act if it constitutes such processing of digital personal data outside these exempted personal/domestic or publicly-available categories."
+  },
+  {
+    "query": "How does the Act define deemed consent for medical emergencies and disasters, and what specific epidemic-related purpose is listed as an example?",
+    "ideal_answer": "Deemed consent for medical emergencies covers processing necessary to provide medical treatment or health services to an individual during an epidemic, outbreak of disease, or any other threat to public health. For disasters, it covers processing necessary to ensure the safety of, or provide assistance or services to, an individual during a disaster or breakdown of public order, with 'disaster' carrying the same meaning as under the Disaster Management Act, 2005."
+  },
+  {
+    "query": "What must a Data Fiduciary do if a personal data breach occurs, and how do the DPDP Rules 2025 specify the exact timeline and content for informing the Board?",
+    "ideal_answer": "On a personal data breach, the Data Fiduciary must give intimation of the breach to both the Board and each affected Data Principal, in the prescribed form and manner. Under the Rules, intimation to the Board must include, without delay, a description of the breach's nature, extent, timing, location and likely impact, and then within 72 hours of becoming aware of the breach (or a longer period the Board allows on written request), updated details, facts/circumstances/reasons for the breach, mitigation measures, findings on who caused it, remedial steps, and a report on the intimations already given to affected Data Principals."
+  },
+  {
+    "query": "What are the additional obligations imposed on a Significant Data Fiduciary under the Act, and what further obligations does Rule 13 of the DPDP Rules add regarding periodic assessments?",
+    "ideal_answer": "Under the Act, a Significant Data Fiduciary must appoint a India-based Data Protection Officer (responsible to its Board of Directors and the point of contact for grievance redressal) and an independent data auditor, and must undertake periodic Data Protection Impact Assessments and audits. Rule 13 adds that this DPIA and audit must be carried out once every twelve months from the date of being notified as a Significant Data Fiduciary, and the person conducting it must furnish a report of significant observations to the Board; the Significant Data Fiduciary must also verify through due diligence that its algorithmic software does not pose a risk to Data Principals' rights."
+  },
+  {
+    "query": "What conditions must be met before a Data Fiduciary can process a child’s personal data, and what verification steps does Rule 10 require to confirm that a person is genuinely the child’s parent?",
+    "ideal_answer": "Before processing a child's personal data, the Data Fiduciary must obtain verifiable consent of the child's parent (or the lawful guardian for a person with disability), and must not process it in a way likely to harm the child's well-being or undertake tracking, behavioural monitoring, or targeted advertising directed at children. Under Rule 10, the Data Fiduciary must adopt appropriate technical and organisational measures and observe due diligence to check that the person identifying as the parent is an identifiable adult, by referencing reliable identity/age details it already holds or details voluntarily provided by the individual or via a virtual token issued by an authorised entity."
+  },
+  {
+    "query": "What rights does a Data Principal have regarding correction and erasure of personal data, and what duties must the Data Principal observe when exercising those rights?",
+    "ideal_answer": "A Data Principal has the right to correction, completion, updating and erasure of her personal data for processing to which she previously gave consent; on request, the Data Fiduciary must correct inaccurate/misleading data, complete incomplete data, update it, and erase it unless retention is necessary for the specified purpose or legal compliance. When exercising these rights, the Data Principal has duties to comply with applicable laws, not impersonate another person, not suppress material information when providing data for official documents, not register false or frivolous grievances, and furnish only verifiably authentic information."
+  },
+  {
+    "query": "How is the Data Protection Board of India constituted, and what disqualifies a person from being appointed or continuing as its Chairperson or a Member?",
+    "ideal_answer": "The Board consists of a Chairperson and such number of other Members as the Central Government notifies, appointed by the Central Government, and must include persons of ability, integrity and standing with special knowledge or experience in relevant fields (with at least one legal expert). A person is disqualified from being appointed or continuing as Chairperson or Member if she has been adjudged insolvent, convicted of an offence involving moral turpitude, become physically or mentally incapable, acquired a financial or other interest likely to prejudicially affect her functions, or has abused her position in a way prejudicial to public interest."
+  },
+  {
+    "query": "What powers does the Board have when inquiring into a complaint, and what happens if the Board decides a complaint is false or frivolous?",
+    "ideal_answer": "During an inquiry, the Board can summon and examine persons on oath, receive evidence by affidavit, require discovery/production of documents, inspect data, books, documents, registers and accounts, and take such other action as prescribed; it may also issue interim orders after giving the concerned person a hearing. If, at any stage after receiving a complaint, the Board considers it false or frivolous, it may issue a warning or impose costs on the complainant."
+  },
+  {
+    "query": "What is the process and timeline for filing an appeal to the Appellate Tribunal against an order of the Board, and how quickly must the Tribunal try to dispose of such an appeal?",
+    "ideal_answer": "Any person aggrieved by an order or direction of the Board may appeal to the Appellate Tribunal within 60 days of receiving the order (condonable if there was sufficient cause for delay), and after hearing the parties the Tribunal may confirm, modify, or set aside the order. The Tribunal must deal with the appeal as expeditiously as possible and endeavour to dispose of it finally within six months of the appeal being presented, recording reasons in writing if it cannot do so within that period."
+  },
+  {
+    "query": "What factors does the Board consider while determining the amount of a monetary penalty, and where does the penalty amount ultimately get credited?",
+    "ideal_answer": "In determining the amount of a monetary penalty, the Board considers the nature, gravity and duration of the breach; the type and nature of personal data affected; whether the breach was repetitive; whether the person gained or avoided loss as a result; whether mitigating action was taken and how timely/effective it was; whether the penalty is proportionate and effective to secure compliance and deter breaches; and the likely impact of the penalty on the person. All sums realised through such penalties are credited to the Consolidated Fund of India."
+  },
+  {
+    "query": "What restrictions exist on cross-border transfer of personal data under the Act, and what additional restriction does Rule 15 place on sharing personal data with a foreign State?",
+    "ideal_answer": "Under the Act, the Central Government may, by notification, restrict transfer of personal data by a Data Fiduciary to specified countries or territories outside India, though this doesn't override any other Indian law providing a higher degree of protection or restriction on such transfers. Rule 15 adds a further restriction specifically on sharing personal data with a foreign State (or any person/entity under its control or agency): the Data Fiduciary must meet requirements that the Central Government specifies, by general or special order, for making such personal data available to that foreign State."
+  },
+  {
+    "query": "What is a Consent Manager under the DPDP Rules, and what obligations must it fulfil regarding maintaining records of consent and acting in a fiduciary capacity toward the Data Principal?",
+    "ideal_answer": "A Consent Manager is a registered entity through which a Data Principal can withdraw consent, exercise her rights under the Act, and complain to the Board, and it must ensure the personal data or its sharing passes through in a form not readable by the Consent Manager itself. It must maintain records of consents given, denied or withdrawn, notices preceding or accompanying consent requests, and sharing of personal data with transferee Data Fiduciaries (giving the Data Principal access to these records, in machine-readable form on request, retained for at least seven years), and it must act in a fiduciary capacity toward the Data Principal, avoiding conflicts of interest and not sub-contracting its obligations."
+  },
+  {
+    "query": "What conditions must an applicant satisfy to register as a Consent Manager, and what disclosure obligations does a registered Consent Manager have regarding its shareholders?",
+    "ideal_answer": "To register as a Consent Manager, the applicant must be a company incorporated in India with sufficient technical, operational and financial capacity, sound financial condition and management character, a net worth of at least ₹2 crore, adequate business volume/capital structure/earning prospects, directors and key managerial personnel with a reputation for fairness and integrity, and constitutional documents ensuring adherence to its obligations. A registered Consent Manager must publicly disclose its promoters, directors, key managerial personnel, senior management, and every person holding more than 2% of its shareholding, along with any other information the Board directs in the interests of transparency."
+  },
+  {
+    "query": "According to the DPDP Rules 2025 summary, what are the seven core principles the Act rests on, and what penalty amounts apply for failing to notify the Board or affected individuals of a data breach?",
+    "ideal_answer": "The Act rests on seven core principles: consent and transparency, purpose limitation, data minimisation, accuracy, storage limitation, security safeguards, and accountability. Failing to notify the Board or affected individuals of a personal data breach, like violations of obligations relating to children, can attract penalties of up to ₹200 crore, while any other violation of the Act or Rules may attract penalties of up to ₹50 crore."
+  },
+  {
+    "query": "How long must a Data Fiduciary retain personal data and associated logs after a transaction under Rule 8, and what specific retention period applies to an e-commerce entity under the Third Schedule?",
+    "ideal_answer": "Under Rule 8, a Data Fiduciary must retain personal data, associated traffic data, and other processing logs for a minimum of one year from the date of processing (for the purposes specified in the Seventh Schedule), after which it must be erased unless further retention is legally required. Under the Third Schedule, a Data Fiduciary that is an e-commerce entity must retain such data for three years from the date the Data Principal last approached it for the specified purpose or exercised her rights, or from the commencement of the DPDP Rules 2025, whichever is latest."
+  },
+  {
+    "query": "What due diligence must a Data Fiduciary perform when verifying a lawful guardian for a person with disability, and which law defines who qualifies as a person with disability for this purpose?",
+    "ideal_answer": "When obtaining verifiable consent from someone identifying as the lawful guardian of a person with disability, the Data Fiduciary must observe due diligence to verify that the guardian was appointed by a court of law, a designated authority, or a local level committee, under the law applicable to guardianship. Who qualifies as a 'person with disability' for this purpose is defined by reference to the Rights of Persons with Disabilities Act, 2016, and, for conditions like autism, cerebral palsy or mental retardation, the National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999."
+  },
+  {
+    "query": "What purposes are exempted from the restrictions on processing children’s personal data under Part B of the Fourth Schedule, and which classes of Data Fiduciaries are exempted under Part A for health-related processing?",
+    "ideal_answer": "Under Part A of the Fourth Schedule, Data Fiduciaries that are clinical establishments, mental health establishments, or healthcare professionals are exempted for processing restricted to providing health services to the child to the extent necessary for her health protection. Under Part B, exempted purposes include exercising powers/functions/duties in the interests of a child under law, providing subsidies/benefits/services/certificates/licences/permits in a child's interest, creating a user account limited to email communication, and determining a child's real-time location for her safety."
+  },
+  {
+    "query": "What is the maximum period within which the Board must complete an inquiry, and what happens if the Board needs more time under Rule 19?",
+    "ideal_answer": "The Board must complete an inquiry within six months from the date of receiving the intimation, complaint, reference or direction under section 27 of the Act. Under Rule 19, if the Board needs more time, it may extend this period, for reasons recorded in writing, for a further period not exceeding three months at a time."
+  },
+  {
+    "query": "How was public consultation conducted before the DPDP Rules 2025 were finalised, and what phased compliance period did the notified Rules provide to organisations?",
+    "ideal_answer": "Nationwide consultations were conducted before the Rules were finalised, in which 6,915 inputs were received from the public and stakeholders, and these contributions shaped the final Rules notified on 14 November 2025. The notified Rules provide an eighteen-month period for phased compliance, giving organisations time to adjust their systems and adopt responsible data practices."
+  },
+  {
+    "query": "What is the territorial scope of the Digital Personal Data Protection Act, including its application to processing outside India?",
+    "ideal_answer": "The Act applies to the processing of digital personal data within the territory of India where the data is collected in digital form, or collected in non-digital form and subsequently digitised. It also applies to processing of digital personal data outside the territory of India, if that processing is in connection with any activity related to offering goods or services to Data Principals within India."
+  },
+  {
+    "query": "What is the definition of a data breach intimation obligation to affected Data Principals under Rule 7, and what information must such intimation include?",
+    "ideal_answer": "Under Rule 7, when intimating the Board of a personal data breach, the Data Fiduciary must, without delay, provide a description of the breach's nature, extent, timing and location of occurrence, and its likely impact. Within 72 hours of becoming aware of the breach (or a longer period the Board permits on written request), it must also provide updated and detailed information on that description, the broad facts/circumstances/reasons for the breach, measures taken or proposed to mitigate risk, findings on who caused the breach, remedial measures taken to prevent recurrence, and a report on the intimations given to affected Data Principals."
+  },
+  {
+    "query": "What are the terms of service, including leave and gratuity entitlements, applicable to officers and employees of the Data Protection Board under the Sixth Schedule?",
+    "ideal_answer": "Officers and employees of the Board are entitled to gratuity as admissible under the Payment of Gratuity Act, 1972, and travelling allowance on the same basis as Central Government employees. They may avail leave as admissible to a Government servant under the Central Civil Services (Leave) Rules, 1972 (including earned-leave encashment as provided therein) and are entitled to casual leave to the extent admissible to a Government servant under Central Government instructions."
+  },
+  {
+    "query": "What illustration does the Act give regarding the invalidity of a consent clause that waives a Data Principal’s right to complain to the Board, and how does this relate to the general rule for withdrawal of consent?",
+    "ideal_answer": "The Act illustrates this through the case of an individual who consents to an insurer processing her personal data for issuing a policy but also 'consents' to waiving her right to file a complaint with the Data Protection Board — the Act explicitly states that this waiver part of the consent is invalid. This connects to the general rule that a Data Principal always retains the right to withdraw her consent to processing at any time, with the ease of withdrawal being comparable to the ease with which it was given, reinforcing that certain rights (like the right to complain, or to withdraw consent) cannot be signed away by agreement."
+  }
+]

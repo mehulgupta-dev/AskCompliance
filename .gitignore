@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+*.pyo
+.pytest_cache/
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv
+.venv/
+venv/
+.uv/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector Store
+
+compliance_db/
+
+# Chunks 
+
+chunks_export.json
+
