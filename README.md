@@ -1,8 +1,8 @@
 # AskCompliance
 
-AskCompliance is a Retrieval-Augmented Generation (RAG) application that lets you ask natural-language questions about compliance documents (e.g. policies, regulations, internal guidelines) and get answers grounded in the actual source text.
+AskCompliance is a Retrieval-Augmented Generation (RAG) chatbot that answers natural-language questions about India's **Digital Personal Data Protection (DPDP) Act & Rules**, grounded in the actual text of the source documents.
 
-Documents are chunked, embedded, and stored in a local vector database. When you ask a question, the most relevant chunks are retrieved and passed to an LLM (via `langchain-openai`) to generate a grounded answer, served through a simple Streamlit UI.
+Documents are chunked, embedded, and stored in a local vector database. When you ask a question, the most relevant chunks are retrieved and passed to an LLM (via `langchain-openai`) to generate a grounded answer, served through a simple Streamlit chat UI.
 
 ## Features
 
@@ -98,4 +98,16 @@ The `eval/` and `golden_dataset/` folders support automated quality checks using
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+## Acknowledgements
+
+This project's knowledge base is built from the following official documents:
+
+- [DPDP Rules 2025 (English)](https://www.dpdpa.com/DPDP_Rules_2025_English_only.pdf) — *DPDP_Rules_2025_English_only.pdf*
+- DDPA Rules 2025 — *DDPA_Rules_2025.pdf*
+- DDPA Act 2023 — *DDPA_ACT_2023.pdf*
+
+All rights to the above documents belong to their respective issuing authorities. They are used here solely as a reference knowledge base for retrieval-augmented question answering, and this project does not claim any ownership over their content.
+
 ## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
